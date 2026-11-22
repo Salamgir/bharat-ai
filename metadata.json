@@ -1,0 +1,6 @@
+{
+  "name": "BHARAT AI",
+  "description": "Mobile-first Indian all-in-one AI companion with Saffron, White, and Navy Blue branding featuring local AI Chat, On-Device Photo Editor, Coming Soon AI studio previews, Demo Wallet, Premium Preview, and Profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
